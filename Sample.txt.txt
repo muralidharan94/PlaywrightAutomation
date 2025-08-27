@@ -1,3 +1,5 @@
 This is a sample file.
 
-I added new line.
+I added new line step.
+
+i added and updated a line.
